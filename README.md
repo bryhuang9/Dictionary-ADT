@@ -23,9 +23,10 @@ You're reading it right now! This file provides an overview of the project struc
 
 ## Build and Run
 In order to build and run this project, use the provided Makefile.
-
+```
 make
 ./executable_name # replace this with the actual name of your generated executable
+```
 
 Please ensure that you have the required dependencies installed before running the project.
 
