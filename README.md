@@ -1,5 +1,5 @@
 # Dictionary BST
-This project contains the implementation and testing of a Dictionary Abstract Data Type (ADT) with manipulation and access functions. We have used BigInteger to test the functionality of this ADT.
+This repository contains the implementation of a Dictionary Abstract Data Type (ADT) with a variety of manipulation and access functions. It is tested through the DictionaryTest.cpp and has client programs using Binary Search Tree (BST) implementations.
 
 ## Files in the Project
 
